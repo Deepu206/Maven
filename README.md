@@ -1,3 +1,3 @@
 # Maven
                       Maven Tutorial
-This will helps to beginers how to built & deploy maven projects.
+This repo will helps to beginers to understand maven.
