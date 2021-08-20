@@ -1,0 +1,10 @@
+*******************************************************************************
+     Maven Goals
+*******************************************************************************	 
+clean   : mvn clean
+Compile : mvn compile
+Test    : test-compile
+          test 
+Package : mvn package
+Install : mvn install
+Deploy  : mvn deploy
